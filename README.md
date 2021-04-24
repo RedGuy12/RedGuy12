@@ -1,5 +1,7 @@
 ### Hi there 👋
+
 ---
+
 [![RedGuy12's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedGuy12&count_private=true&show_icons=true&theme=algolia&border_radius=15px&include_all_commits=true)](https://github.com/RedGuy12/)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RedGuy12&langs_count=10&count_private=true&show_icons=true&theme=algolia&border_radius=15px&include_all_commits=true&layout=compact)](https://github.com/RedGuy12?tab=repositories)
 
