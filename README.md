@@ -8,3 +8,4 @@
 [![Scratch Addons](https://github-readme-stats.vercel.app/api/pin/?username=ScratchAddons&repo=ScratchAddons&count_private=true&show_icons=true&theme=algolia&border_radius=15px&include_all_commits=true)](https://scratchaddons.com/)
 [![My Site](https://github-readme-stats.vercel.app/api/pin/?username=RedGuy12&repo=Pauls-Coding&count_private=true&show_icons=true&theme=algolia&border_radius=15px&include_all_commits=true)](https://paul-s-reid.com/web-dev/)
 [![Paul Reid Photos](https://github-readme-stats.vercel.app/api/pin/?username=RedGuy12&repo=paul-reid-photography&count_private=true&show_icons=true&theme=algolia&border_radius=15px&include_all_commits=true)](https://auth.onedot.cf/)
+[![OneAuth](https://github-readme-stats.vercel.app/api/pin/?username=RedGuy12&repo=OneAuth&count_private=true&show_icons=true&theme=algolia&border_radius=15px&include_all_commits=true)](https://auth.onedot.cf/)
